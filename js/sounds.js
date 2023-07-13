@@ -4,7 +4,7 @@ export default function () {
   const coffeSound = new Audio("assets/Cafeteria.wav");
   const fireSound = new Audio("assets/Lareira.wav");
   const endTime = new Audio(
-    "https://github.com/maykbrito/automatic-video-creator/blob/master/audios/kichen-timer.mp3?raw=true"
+    "assets/End.mp3"
   );
 
   treeSound.loop = true;

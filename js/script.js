@@ -125,7 +125,7 @@ function countDown() {
     }
 
     countDown()
-  }, 1000)  
+  }, 10)  
 
   console.log(timerOut)
 }
